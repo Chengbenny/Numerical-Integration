@@ -1,4 +1,4 @@
-# Numerical-Integration-
+# Numerical-Integration
 1. Midpoint rule
 2. Trapezoidal rule
 3. Chebyshev polynomial
